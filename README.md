@@ -1,8 +1,8 @@
-# Cleanflight
+# Drunkflight
 
-Clean-code version of baseflight flight-controller - flight controllers are used to fly multi-rotor craft and fixed wing craft.
+Drunk-code version of betaflight flight-controller - flight controllers are used to fly multi-rotor craft and fixed wing craft.
 
-This fork differs from baseflight in that it attempts to use modern software development practices which result in:
+This fork differs from betaflight in that it attempts to use alcohol before to code which result in:
 
 1. greater reliability through code robustness and automated testing. 
 2. easier maintainance through code cleanliness.
